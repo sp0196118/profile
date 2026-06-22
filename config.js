@@ -10,8 +10,8 @@ const CONFIG = {
   /* ── Identity ───────────────────────────────────────── */
   name:        "Sachin Patel",
   role:        "Data Scientist",
-  tagline:     "Open to Internships · Mumbai / Gurugram",
-  location:    "New Delhi, India",
+  tagline:     "Open to work · India",
+  location:    "Gurugram, India",
   email:       "sp0196118@gmail.com",
   phone:       "+91-6232610569",
   linkedin:    "https://www.linkedin.com/in/sachin-patel-7514a0346/",
