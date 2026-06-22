@@ -17,7 +17,7 @@ const CONFIG = {
   linkedin:    "https://linkedin.com/in/SachinPatel",
   github:      "https://github.com/SachinPatel",
   resumeFile:  "Sachin_Patel_Resume.pdf",
-  photoUrl:    "",           /* e.g. "photo.jpg" or leave "" for initials */
+  photoUrl:    "sachin_photo.jpg",           /* e.g. "photo.jpg" or leave "" for initials */
   accentColor: "#00D4AA",   /* primary accent — change to any hex */
 
   /* ── GitHub push-to-save (admin panel) ──────────────── */
