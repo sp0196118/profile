@@ -14,8 +14,8 @@ const CONFIG = {
   location:    "New Delhi, India",
   email:       "sp0196118@gmail.com",
   phone:       "+91-6232610569",
-  linkedin:    "https://linkedin.com/in/SachinPatel",
-  github:      "https://github.com/SachinPatel",
+  linkedin:    "https://www.linkedin.com/in/sachin-patel-7514a0346/",
+  github:      "https://github.com/sp0196118/",
   resumeFile:  "Sachin_Patel_Resume.pdf",
   photoUrl:    "sachin_photo.jpg",           /* e.g. "photo.jpg" or leave "" for initials */
   accentColor: "#00D4AA",   /* primary accent — change to any hex */
