@@ -1,21 +1,21 @@
 {
   "name": "Sachin Patel",
   "role": "Data Scientist",
-  "tagline": "Open to Internships · Mumbai / Gurugram",
+  "tagline": "Open to Work · India",
   "location": "New Delhi, India",
   "email": "sp0196118@gmail.com",
   "phone": "+91-6232610569",
-  "linkedin": "https://linkedin.com/in/SachinPatel",
-  "github": "https://github.com/SachinPatel",
+  "linkedin": "https://www.linkedin.com/in/sachin-patel-7514a0346/",
+  "github": "https://github.com/sp0196118/",
   "resumeFile": "Sachin_Patel_Resume.pdf",
   "photoUrl": "sachin_photo.jpg",
   "accentColor": "#00D4AA",
-  "githubOwner": "",
-  "githubRepo": "",
+  "githubOwner": "sp0196118",
+  "githubRepo": "https://github.com/sp0196118/sp0196118.github.io",
   "githubBranch": "main",
   "bio": [
     "M.Sc. Operations Research from <strong>IIT Bombay</strong> · 1.5+ years turning messy datasets into automated, insight-driven systems.",
-    "I build <strong>Python ETL pipelines</strong>, <strong>advanced SQL reporting</strong>, and <strong>ML models</strong> that replace Excel chaos with scalable automation — directly aligned with Corporate Finance & Analytics roles.",
+    "I build <strong>Python ETL pipelines</strong>, <strong>advanced SQL reporting</strong>, and <strong>ML models</strong> that replace Excel chaos with scalable automation — directly aligned with Corporate Finance & Analytics roles."
   ],
   "heroStats": [
     { "value": "1.5+",   "label": "Years Experience" },
