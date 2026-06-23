@@ -69,6 +69,54 @@
     }
   ],
   "projects": [
+
+        {
+        "title": "EV Charging Grid Orchestration",
+        "desc": "Optimized EV charging station placement using demand clustering and mathematical optimization to maximize coverage under budget constraints.",
+        "metric": "⚡ Smart EV infrastructure planning",
+        "tags": ["DBSCAN", "Set Cover", "Optimization", "Streamlit"],
+        "link": "https://sp0196118.github.io/EV-Charging-Grid-Orchestration/"
+        },
+           
+        {
+        "title": "Dark Kitchen Delivery Zone Optimizer",
+        "desc": "Optimized dark kitchen locations using demand clustering and facility location optimization to improve delivery coverage and reduce operational costs.",
+        "metric": "🍔 Smart delivery network planning",
+        "tags": ["DBSCAN", "Facility Location", "PuLP", "Folium"],
+        "link": "https://dark-kitchen-wftmpywm3hjypwp67eqrrc.streamlit.app/"
+        },
+
+        {
+        "title": "IPL Cricket Team Selector",
+        "desc": "Built a data-driven team selection engine that ranks players and generates the optimal playing XI under budget and role constraints.",
+        "metric": "🏏 Optimization-based squad selection",
+        "tags": ["ILP", "Sports Analytics", "Python", "Streamlit"],
+        "link": "https://cricket-optimizer-fp5uqn2hlnxdbaramehpnn.streamlit.app/"
+        },
+
+        {
+        "title": "Dynamic Pricing Engine",
+        "desc": "Developed a pricing optimization model that recommends profit-maximizing product prices based on demand elasticity and market conditions.",
+        "metric": "💰 Up to 22% profit improvement",
+        "tags": ["Machine Learning", "Optimization", "Pricing"],
+        "link": "https://dynamic-pricing-ahjjvzvxnkxwpq3r5bhwqb.streamlit.app/"
+        },
+
+        {
+        "title": "Hospital Bed & Staff Allocation Optimizer",
+        "desc": "Combined demand forecasting and workforce scheduling to optimize hospital staffing levels and resource allocation.",
+        "metric": "🏥 Efficient healthcare operations",
+        "tags": ["Forecasting", "ILP", "Healthcare Analytics"],
+        "link": "https://hospital-scheduling-qs9zxmieo7vnwhppip6hxu.streamlit.app/"
+        },
+
+        {
+        "title": "LLM-Powered Operations Research Solver",
+        "desc": "Built an AI-powered system that converts natural language business problems into mathematical optimization models and solves them automatically.",
+        "metric": "🤖 AI + Operations Research",
+        "tags": ["LLM", "Optimization", "Prompt Engineering"],
+        "link": "https://dark-kitchen-wftmpywm3hjypwp67eqrrc.streamlit.app/"
+        },
     { "title": "Automated Reporting Pipeline",       "desc": "End-to-end Python automation: Excel → parameterised SQL + Jupyter. Real-time trend & anomaly detection on financial datasets.", "metric": "⚡ ~40% less manual reporting", "tags": ["Python","SQL","ETL"],          "link": "" },
     { "title": "Demand Forecasting — Walmart / M5", "desc": "Product-store level forecasts modelling trends, seasonality & holidays with XGBoost on the M5 retail dataset.",              "metric": "📈 15–25% accuracy gain",       "tags": ["Time Series","XGBoost"],      "link": "" },
     { "title": "Fraud Detection on Financial Data", "desc": "Classifiers on imbalanced transaction data; model choice aligned to business risk via ROC-AUC & Precision-Recall.",          "metric": "🎯 >30% recall improvement",    "tags": ["ML","Imbalanced Data"],       "link": "" },
