@@ -1,24 +1,15 @@
-export default async function handler(req, res) {
-
-  if (req.method !== "POST") {
-    return res.status(405).json({
-      error: "Method not allowed"
-    });
+await fetch(
+  `https://api.github.com/repos/${owner}/${repo}/contents/config.js`,
+  {
+    method: "PUT",
+    headers: {
+      Authorization: `Bearer ${token}`,
+      "Content-Type": "application/json"
+    },
+    body: JSON.stringify({
+      message: "Update portfolio",
+      content: Buffer.from(newContent).toString("base64"),
+      sha: currentSha
+    })
   }
-
-  const password = req.body.password;
-
-  if (password !== process.env.ADMIN_PASSWORD) {
-    return res.status(401).json({
-      error: "Invalid password"
-    });
-  }
-
-  const githubToken = process.env.GITHUB_TOKEN;
-
-  // Your GitHub API update logic here
-
-  return res.status(200).json({
-    success: true
-  });
-}
+);
