@@ -115,7 +115,7 @@
         "desc": "Built an AI-powered system that converts natural language business problems into mathematical optimization models and solves them automatically.",
         "metric": "🤖 AI + Operations Research",
         "tags": ["LLM", "Optimization", "Prompt Engineering"],
-        "link": "https://dark-kitchen-wftmpywm3hjypwp67eqrrc.streamlit.app/"
+        "link": "https://llm-or-solver-9xns3mj9owta7knv9vrqfn.streamlit.app/"
         },
     { "title": "Automated Reporting Pipeline",       "desc": "End-to-end Python automation: Excel → parameterised SQL + Jupyter. Real-time trend & anomaly detection on financial datasets.", "metric": "⚡ ~40% less manual reporting", "tags": ["Python","SQL","ETL"],          "link": "" },
     { "title": "Demand Forecasting — Walmart / M5", "desc": "Product-store level forecasts modelling trends, seasonality & holidays with XGBoost on the M5 retail dataset.",              "metric": "📈 15–25% accuracy gain",       "tags": ["Time Series","XGBoost"],      "link": "" },
